@@ -1,0 +1,30 @@
+.forma {
+  heigth: 420px;
+  width: 320px;
+  perspective: 500px;
+  position: relative; }
+  
+.tarjeta { 
+  heigth: 100%;
+  width: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: all 1s ease-in-out;
+}
+
+.tarjeta:hover { 
+  transform: rotateY(180deg);
+  
+  
+  }
+.tarjeta .lado {
+  backface-visibility: hidden;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  }
+
+.tarjeta .back {
+  color: skyblue;
+  background: rgb(2,0,36);
+  }
