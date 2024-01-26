@@ -6,3 +6,6 @@ open source projects
 
 TARJETA DE PRESENTACION 
 https://codepen.io/Luis-Gerardo-Contreras-Barrios/pen/KKEXLPG 
+
+Link del proyecto al que se le hizo fork 
+https://github.com/Lgcb1832/Depth-Anything
